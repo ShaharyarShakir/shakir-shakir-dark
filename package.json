@@ -1,0 +1,21 @@
+{
+  "name": "shakir-shakir-dark",
+  "displayName": "Shakir Shakir Dark",
+  "description": "Shakir Shakir theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shakir Shakir Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shakir Shakir Dark-color-theme.json"
+      }
+    ]
+  }
+}
