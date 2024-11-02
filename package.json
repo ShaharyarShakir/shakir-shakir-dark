@@ -3,6 +3,17 @@
   "displayName": "Shakir Shakir Dark",
   "description": "Shakir Shakir theme!",
   "version": "0.0.1",
+  "publisher": "ShaharyarShakir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShaharyarShakir/shakir-shakir-dark"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "shakir shakir theme",
+    "Shakir Shakir Dark"
+  ],
   "engines": {
     "vscode": "^1.95.0"
   },
