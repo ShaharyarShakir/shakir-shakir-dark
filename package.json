@@ -4,6 +4,7 @@
   "description": "Shakir Shakir theme!",
   "version": "1.0.0",
   "publisher": "ShaharyarShakir",
+  "icon": "profile-img.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/ShaharyarShakir/shakir-shakir-dark"
