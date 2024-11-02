@@ -3,8 +3,8 @@
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
-		"activityBar.background": "#005ed1",
-		"activityBar.border": "#0B254560",
+		"activityBar.background": "#005ed161",
+		"activityBar.border": "#18427642",
 		"activityBar.foreground": "#000000",
 		"activityBarBadge.background": "#22AAA1",
 		"activityBarBadge.foreground": "#0B2545",
